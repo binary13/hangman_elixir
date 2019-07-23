@@ -1,2 +1,3 @@
-# coding_gnome
+# hangman_elixir
+
 Hangman project in Elixir
